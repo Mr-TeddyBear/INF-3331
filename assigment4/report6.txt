@@ -1,0 +1,40 @@
+Integral of sin(x) using Python integrator.
+  Calculated integral:                   2.00000
+  Difference from real answer:           9.967183e-11
+  The requierd number of itterations:    1.297426e+05
+  Runtime using 1e+05 itterations:       0.1214 seconds
+ 
+
+Integral of sin(x) using Python midpoint integrator.
+  Calculated integral:                   2.00000
+  Difference from real answer:           9.994716e-11
+  The requierd number of itterations:    9.160195e+04
+  Runtime using 9e+04 itterations:       0.0928 seconds
+ 
+
+Integral of sin(x) using NumPy integrator.
+  Calculated integral:                   2.00000
+  Difference from real answer:           9.968382e-11
+  The requierd number of itterations:    1.297426e+05
+  Runtime using 1e+05 itterations:       0.0042 seconds
+ 
+
+Integral of sin(x) using NumPy midpoint integrator.
+  Calculated integral:                   2.00000
+  Difference from real answer:           9.998891e-11
+  The requierd number of itterations:    9.160195e+04
+  Runtime using 9e+04 itterations:       0.0027 seconds
+ 
+
+Integral of sin(x) using Numba integrator.
+  Calculated integral:                   2.00000
+  Difference from real answer:           9.968493e-11
+  The requierd number of itterations:    1.297426e+05
+  Runtime using 1e+05 itterations:       0.0727 seconds
+ 
+
+Integral of sin(x) using Numba midpoint integrator.
+  Calculated integral:                   2.00000
+  Difference from real answer:           9.994716e-11
+  The requierd number of itterations:    9.160195e+04
+  Runtime using 9e+04 itterations:       0.0778 seconds

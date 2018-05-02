@@ -1,0 +1,4 @@
+Python with numba time: 0.086442 seconds. With N=1e+07
+Normal Python code time: 2.99910. With N=1e+07
+Numpy code time: 0.156003 seconds. With N=1e+07
+Again we see that numba uses about half as much time as numpy.

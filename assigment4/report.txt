@@ -1,0 +1,23 @@
+Integral of function 1 took 14.021076 seconds. 
+Diff: 7.771561e-16 
+Calculated value: 5.000000e-01
+
+Integral of function 2 took 18.385306 seconds. 
+Diff: 1.110223e-16 
+Calculated value: 5.000000e-01
+
+Integral of function 3 took 27.263629 seconds. 
+Diff: 0.000000e+00 
+Calculated value: 5.000000e-01
+
+Integral of function 4 took 32.965190 seconds. 
+Diff: 0.000000e+00 
+Calculated value: 5.000000e-01
+
+Integral of function 5 took 37.553105 seconds. 
+Diff: 7.352952e-12 
+Calculated value: 5.000000e-01
+
+Integral of function 6 took 31.769556 seconds. 
+Diff: 3.443912e-13 
+Calculated value: 5.000000e-01
